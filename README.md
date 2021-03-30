@@ -15,7 +15,10 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 12     | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JS](/problems/leetcode/12-integer-to-roman.js) | Easy            |
 | 13     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JS](/problems/leetcode/13-roman-to-integer.js) | Easy            |
 | 14     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JS](/problems/leetcode/14-longest-common-prefix.js) | Easy            |
+| 15     | [3Sum](https://leetcode.com/problems/3sum/) | [JS](/problems/leetcode/14-longest-common-prefix.js) | Medium            |
+| 26     | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JS](/problems/leetcode/26-remove-duplicates-from-sorted-array.js) | Easy            |
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [JS](/problems/leetcode/27-remove-element.js) | Easy            |
+| 80     | [ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](/problems/leetcode/80-remove-duplicates-from-sorted-array-2.js) | Medium            |
 | 167    | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](/problems/leetcode/167-two-sum-2.js) | Easy            |
 
 ## License
