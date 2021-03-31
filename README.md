@@ -18,6 +18,8 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 15     | [3Sum](https://leetcode.com/problems/3sum/) | [JS](/problems/leetcode/14-longest-common-prefix.js) | Medium            |
 | 26     | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JS](/problems/leetcode/26-remove-duplicates-from-sorted-array.js) | Easy            |
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [JS](/problems/leetcode/27-remove-element.js) | Easy            |
+| 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JS](/problems/leetcode/28-implement-strStr.js) | Easy            |
+| 66     | [Plus One](https://leetcode.com/problems/plus-one/) | [JS](/problems/leetcode/66-plus-one.js) | Easy            |
 | 80     | [ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](/problems/leetcode/80-remove-duplicates-from-sorted-array-2.js) | Medium            |
 | 167    | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](/problems/leetcode/167-two-sum-2.js) | Easy            |
 
