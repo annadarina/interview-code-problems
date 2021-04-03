@@ -22,6 +22,9 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/) | [JS](/problems/leetcode/66-plus-one.js) | Easy            |
 | 80     | [ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](/problems/leetcode/80-remove-duplicates-from-sorted-array-2.js) | Medium            |
 | 167    | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](/problems/leetcode/167-two-sum-2.js) | Easy            |
+| 561    | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [JS](/problems/leetcode/561-array-partition-i.js) | Easy            |
+| 724    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [JS](/problems/leetcode/724-find-pivot-index.js) | Easy            |
+| 747    | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [JS](/problems/leetcode/747-largest-number-at-least-twice-of-others.js) | Easy            |
 
 ## License
 MIT
