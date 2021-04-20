@@ -21,8 +21,13 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JS](/problems/leetcode/28-implement-strStr.js) | Easy            |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/) | [JS](/problems/leetcode/66-plus-one.js) | Easy            |
 | 80     | [ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](/problems/leetcode/80-remove-duplicates-from-sorted-array-2.js) | Medium            |
-| 141     | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JS](/problems/leetcode/141-linked-list-cycle.js) | Easy            |
+| 136    | [Single Number](https://leetcode.com/problems/single-number/) | [JS](/problems/leetcode/136-single-number.js) | Easy            |
+| 141    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JS](/problems/leetcode/141-linked-list-cycle.js) | Easy            |
+| 142    | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JS](/problems/leetcode/142-linked-list-cycle-2.js) | Medium            |
 | 167    | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](/problems/leetcode/167-two-sum-2.js) | Easy            |
+| 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [JS](/problems/leetcode/268-missing-number.js) | Easy            |
+| 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JS](/problems/leetcode/287-find-the-duplicate-number.js) | Medium            |
+| 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [JS](/problems/leetcode/389-find-the-difference.js) | Easy            |
 | 561    | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [JS](/problems/leetcode/561-array-partition-i.js) | Easy            |
 | 707    | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [JS](/problems/leetcode/707-design-linked-list.js)| Medium         |
 | 724    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [JS](/problems/leetcode/724-find-pivot-index.js) | Easy            |
