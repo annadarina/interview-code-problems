@@ -19,8 +19,10 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 26     | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JS](/problems/leetcode/26-remove-duplicates-from-sorted-array.js) | Easy            |
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [JS](/problems/leetcode/27-remove-element.js) | Easy            |
 | 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JS](/problems/leetcode/28-implement-strStr.js) | Easy            |
+| 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JS](/problems/leetcode/35-search-insert-position.js) | Easy            |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/) | [JS](/problems/leetcode/66-plus-one.js) | Easy            |
-| 80     | [ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](/problems/leetcode/80-remove-duplicates-from-sorted-array-2.js) | Medium            |
+| 80     | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](/problems/leetcode/80-remove-duplicates-from-sorted-array-2.js) | Medium            |
+| 88    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JS](/problems/leetcode/88-merge-sorted-array.js) | Easy            |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/) | [JS](/problems/leetcode/136-single-number.js) | Easy            |
 | 141    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JS](/problems/leetcode/141-linked-list-cycle.js) | Easy            |
 | 142    | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JS](/problems/leetcode/142-linked-list-cycle-2.js) | Medium            |
@@ -32,6 +34,9 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 707    | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [JS](/problems/leetcode/707-design-linked-list.js)| Medium         |
 | 724    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [JS](/problems/leetcode/724-find-pivot-index.js) | Easy            |
 | 747    | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [JS](/problems/leetcode/747-largest-number-at-least-twice-of-others.js) | Easy            |
+| 941    | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JS](/problems/leetcode/941-valid-mountain-array.js) | Easy            |
+| 977    | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JS](/problems/leetcode/977-squares-of-a-sorted-array.js) | Easy            |
+| 1246   | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [JS](/problems/leetcode/1346-check-if-n-and-its-double-exist.js) | Easy            |
 
 ## License
 MIT
