@@ -28,8 +28,10 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 141    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JS](/problems/leetcode/141-linked-list-cycle.js) | Easy            |
 | 142    | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JS](/problems/leetcode/142-linked-list-cycle-2.js) | Medium            |
 | 150    | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [JS](/problems/leetcode/150-evaluate-reverse-polish-notation.js) | Medium            |
+| 155    | [Min Stack](https://leetcode.com/problems/min-stack/) | [JS](/problems/leetcode/155-min-stack.js) | Easy            |
 | 167    | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](/problems/leetcode/167-two-sum-2.js) | Easy            |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [JS](/problems/leetcode/268-missing-number.js) | Easy            |
+| 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JS](/problems/leetcode/283-move-zeroes.js) | Easy            |
 | 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JS](/problems/leetcode/287-find-the-duplicate-number.js) | Medium            |
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [JS](/problems/leetcode/389-find-the-difference.js) | Easy            |
 | 561    | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [JS](/problems/leetcode/561-array-partition-i.js) | Easy            |
@@ -40,6 +42,7 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 977    | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JS](/problems/leetcode/977-squares-of-a-sorted-array.js) | Easy            |
 | 1047   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [JS](/problems/leetcode/1047-remove-all-adjacent-duplicates-in-string.js) | Easy            |
 | 1246   | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [JS](/problems/leetcode/1346-check-if-n-and-its-double-exist.js) | Easy            |
+| 1299   | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [JS](/problems/leetcode/1299-replace-elements-with-greatest-element-on-right-side.js) | Easy            |
 
 ## License
 MIT
