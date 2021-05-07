@@ -16,6 +16,7 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 13     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JS](/problems/leetcode/13-roman-to-integer.js) | Easy            |
 | 14     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JS](/problems/leetcode/14-longest-common-prefix.js) | Easy            |
 | 15     | [3Sum](https://leetcode.com/problems/3sum/) | [JS](/problems/leetcode/14-longest-common-prefix.js) | Medium            |
+| 20     | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JS](/problems/leetcode/20-valid-parentheses.js) | Easy            |
 | 26     | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JS](/problems/leetcode/26-remove-duplicates-from-sorted-array.js) | Easy            |
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [JS](/problems/leetcode/27-remove-element.js) | Easy            |
 | 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JS](/problems/leetcode/28-implement-strStr.js) | Easy            |
@@ -26,6 +27,7 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 136    | [Single Number](https://leetcode.com/problems/single-number/) | [JS](/problems/leetcode/136-single-number.js) | Easy            |
 | 141    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JS](/problems/leetcode/141-linked-list-cycle.js) | Easy            |
 | 142    | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JS](/problems/leetcode/142-linked-list-cycle-2.js) | Medium            |
+| 150    | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [JS](/problems/leetcode/150-evaluate-reverse-polish-notation.js) | Medium            |
 | 167    | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JS](/problems/leetcode/167-two-sum-2.js) | Easy            |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [JS](/problems/leetcode/268-missing-number.js) | Easy            |
 | 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JS](/problems/leetcode/287-find-the-duplicate-number.js) | Medium            |
@@ -36,6 +38,7 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 747    | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [JS](/problems/leetcode/747-largest-number-at-least-twice-of-others.js) | Easy            |
 | 941    | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JS](/problems/leetcode/941-valid-mountain-array.js) | Easy            |
 | 977    | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JS](/problems/leetcode/977-squares-of-a-sorted-array.js) | Easy            |
+| 1047   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [JS](/problems/leetcode/1047-remove-all-adjacent-duplicates-in-string.js) | Easy            |
 | 1246   | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [JS](/problems/leetcode/1346-check-if-n-and-its-double-exist.js) | Easy            |
 
 ## License
