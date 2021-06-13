@@ -21,6 +21,7 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [JS](/problems/leetcode/27-remove-element.js) | Easy            |
 | 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JS](/problems/leetcode/28-implement-strStr.js) | Easy            |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JS](/problems/leetcode/35-search-insert-position.js) | Easy            |
+| 58     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JS](/problems/leetcode/58-length-of-last-word.js) | Easy            |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/) | [JS](/problems/leetcode/66-plus-one.js) | Easy            |
 | 80     | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JS](/problems/leetcode/80-remove-duplicates-from-sorted-array-2.js) | Medium            |
 | 88    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JS](/problems/leetcode/88-merge-sorted-array.js) | Easy            |
@@ -34,13 +35,16 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JS](/problems/leetcode/283-move-zeroes.js) | Easy            |
 | 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JS](/problems/leetcode/287-find-the-duplicate-number.js) | Medium            |
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [JS](/problems/leetcode/389-find-the-difference.js) | Easy            |
+| 415    | [Add Strings](https://leetcode.com/problems/add-strings/) | [JS](/problems/leetcode/415-add-strings.js) | Easy            |
 | 561    | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [JS](/problems/leetcode/561-array-partition-i.js) | Easy            |
 | 707    | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [JS](/problems/leetcode/707-design-linked-list.js)| Medium         |
 | 724    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [JS](/problems/leetcode/724-find-pivot-index.js) | Easy            |
 | 747    | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [JS](/problems/leetcode/747-largest-number-at-least-twice-of-others.js) | Easy            |
+| 905    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [JS](/problems/leetcode/905-sort-array-by-parity.js) | Easy            |
 | 941    | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JS](/problems/leetcode/941-valid-mountain-array.js) | Easy            |
 | 977    | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JS](/problems/leetcode/977-squares-of-a-sorted-array.js) | Easy            |
 | 1047   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [JS](/problems/leetcode/1047-remove-all-adjacent-duplicates-in-string.js) | Easy            |
+| 1051   | [Height Checker](https://leetcode.com/problems/height-checker/) | [JS](/problems/leetcode/1051-height-checker.js) | Easy            |
 | 1246   | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [JS](/problems/leetcode/1346-check-if-n-and-its-double-exist.js) | Easy            |
 | 1299   | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [JS](/problems/leetcode/1299-replace-elements-with-greatest-element-on-right-side.js) | Easy            |
 
