@@ -40,7 +40,9 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 707    | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [JS](/problems/leetcode/707-design-linked-list.js)| Medium         |
 | 724    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [JS](/problems/leetcode/724-find-pivot-index.js) | Easy            |
 | 747    | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [JS](/problems/leetcode/747-largest-number-at-least-twice-of-others.js) | Easy            |
+| 819    | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [JS](/problems/leetcode/819-most-common-word.js) | Easy            |
 | 905    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [JS](/problems/leetcode/905-sort-array-by-parity.js) | Easy            |
+| 929    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [JS](/problems/leetcode/929-unique-email-addresses.js) | Easy            |
 | 941    | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JS](/problems/leetcode/941-valid-mountain-array.js) | Easy            |
 | 977    | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JS](/problems/leetcode/977-squares-of-a-sorted-array.js) | Easy            |
 | 1047   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [JS](/problems/leetcode/1047-remove-all-adjacent-duplicates-in-string.js) | Easy            |
