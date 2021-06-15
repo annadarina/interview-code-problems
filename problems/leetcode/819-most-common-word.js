@@ -26,7 +26,6 @@ const mostCommonWord = function (paragraph, banned) {
   return words.sort((a, b) => map[b] - map[a])[0];
 };
 
-
 const output1 = mostCommonWord('Bob hit a ball, the hit BALL flew far after it was hit.', ["hit"]);
 const output2 = mostCommonWord('a.', []);
 const output3 = mostCommonWord('Bob!', ['hit']);

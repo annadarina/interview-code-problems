@@ -34,8 +34,11 @@ I'm pretty sure not all my JS solutions are optimized. Feel free to contribute a
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [JS](/problems/leetcode/268-missing-number.js) | Easy            |
 | 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JS](/problems/leetcode/283-move-zeroes.js) | Easy            |
 | 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JS](/problems/leetcode/287-find-the-duplicate-number.js) | Medium            |
+| 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JS](/problems/leetcode/387-first-unique-character-in-a-string.js) | Easy            |
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [JS](/problems/leetcode/389-find-the-difference.js) | Easy            |
+| 414    | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [JS](/problems/leetcode/414-third-maximum-number.js) | Easy            |
 | 415    | [Add Strings](https://leetcode.com/problems/add-strings/) | [JS](/problems/leetcode/415-add-strings.js) | Easy            |
+| 448    | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [JS](/problems/leetcode/448-find-all-numbers-disappeared-in-an-array.js) | Easy            |
 | 561    | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [JS](/problems/leetcode/561-array-partition-i.js) | Easy            |
 | 707    | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [JS](/problems/leetcode/707-design-linked-list.js)| Medium         |
 | 724    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [JS](/problems/leetcode/724-find-pivot-index.js) | Easy            |
